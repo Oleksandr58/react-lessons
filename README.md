@@ -1,1 +1,1 @@
-[react-lessons](https://oleksandr58.github.io/react-lessons/build/index.html)
+[react-lessons](https://oleksandr58.github.io/react-lessons/build/)
